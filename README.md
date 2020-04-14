@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project is part of microverse technical curriculum ruby on rails projects. In this project I created models, added asscoiations between the three models and ran multiple migrations appending more columns and editing other column names.
+This project is part of microverse technical curriculum ruby on rails projects. In this project I created a form starting with a bare HTML form, then using the form_tag helper and finally with form_for.
 
 ## Instructions
 
